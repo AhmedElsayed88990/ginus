@@ -1,0 +1,11 @@
+.card{
+    width: 30%;
+    float: left;
+}
+
+.card img{
+    width: 100%;
+}
+.clear{
+    clear: both;
+}
